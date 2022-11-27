@@ -4,7 +4,14 @@
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code.\nConsumption base vs user based Saas\n\nimport numpy as np\na = [1, 2, 3]\nprint(np.sum(a))\n\n6"
+    "text": "import numpy as np\na = [1, 2, 3]\nprint(np.sum(a))\n\n6"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#good",
+    "href": "posts/post-with-code/index.html#good",
+    "title": "Post With Code",
+    "section": "2 good",
+    "text": "2 good\n\nimport matplotlib.pyplot as plt\nplt.plot([1,23,2,4])\nplt.show()\n\nplt.plot([8,65,23,90])\nplt.show()\n\n\n\n\n\n\n\n(a) First\n\n\n\n\n\n\n\n(b) Second\n\n\n\n\nFigure 1: Charts\n\n\n\n\n\n\n\nWe know from the first fundamental theorem of calculus that for \\(x\\) in \\([a, b]\\):\n\\[\\frac{d}{dx}\\left( \\int_{a}^{x} f(u)\\,du\\right)=f(x).\\]"
   },
   {
     "objectID": "posts/welcome/index.html",
